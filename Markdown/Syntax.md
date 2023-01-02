@@ -30,6 +30,8 @@ Use **#** _to write title._ It can be maximum 6 level.
 > ##### Heading level 5
 > ###### Heading level 6
 
+[▲ Top](#basic-syntax)
+
 <br>
 
 ## 2. Code
@@ -64,6 +66,8 @@ or
 > }
 > ```
 
+[▲ Top](#basic-syntax)
+
 <br>
 
 ## 3. Blockquotes
@@ -78,6 +82,8 @@ Use **>** _to write blockquotes._ It can be used in duplicate.
 > >> Blockquotes 2
 > 
 > >>> Blockquotes 3 ...
+
+[▲ Top](#basic-syntax)
 
 <br>
 
@@ -102,6 +108,8 @@ Use **1.** _to write Ordered List._ Use __* - +__ _to write Unordered List._
 > * List 1
 >     * List 2
 > * List 3
+
+[▲ Top](#basic-syntax)
 
 <br>
 
@@ -130,6 +138,8 @@ Use __*__ or **_** _to emphasize Text._
 >
 > ~~Cancel Text~~
 
+[▲ Top](#basic-syntax)
+
 <br>
 
 ## 6. Links
@@ -142,6 +152,8 @@ Use **[] ()** _to create Hypertext._ It can also be used as index in the Markdow
 >
 > [Links](#6-links)
 
+[▲ Top](#basic-syntax)
+
 <br>
 
 ## P.S.
@@ -152,3 +164,9 @@ The format of future TILs will be this way.
 ## Reference
 - [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Github ihoneymon - how-to-write-by-markdown.md](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+[▲ Top](#basic-syntax)
+
+<br>
+
+[← Go back to TIL](https://github.com/jeongyongs/til/)
