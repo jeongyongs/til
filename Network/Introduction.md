@@ -11,7 +11,7 @@ Introduction covers the overall part of Networking. Each detailed concept will b
 
 ## 1. What's the Internet
 There are two views that explain the Internet.
-### 1.1 nuts and bolts view
+### 1.1. nuts and bolts view
 This view describes the **components of the Internet**.  
 The Internet is a huge network(a.k.a. network of networks).  
 - **Network** is collection of devices, packet switches and links.  
@@ -19,7 +19,7 @@ The Internet is a huge network(a.k.a. network of networks).
 - **Packet switches** forward packets(chunks of data). e.g., router, switch.  
 - Communication **links** connect each components. e.g., fiber, copper, radio, satellite.
 - **Protocols**, the principles of controlling components, are everywhere. e.g., HTTP, TCP, IP Ethernet.
-### 1.2 services view
+### 1.2. services view
 This view focus on services.
 - The Internet provides an interface that applications can use to send and receive information to each others.  
 Put it simply, We can send and receive messages without having to know the complicated way.
@@ -30,7 +30,7 @@ Put it simply, We can send and receive messages without having to know the compl
 
 ## 2. What's a protocol
 Protocol is a procedure having format, order and actions of messages.
-### 2.1 Example
+### 2.1. Example
 ![Protocol between Human and Network](/Network/img/protocol-between-human-and-network.png)
 
 [▲ Top](#introduction)

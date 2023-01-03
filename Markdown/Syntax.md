@@ -15,14 +15,14 @@ I learned Markdown to write TIL in the future. So, let's practice Markdown basic
 
 ## 1. Heading
 Use **#** _to write title._ It can be maximum 6 level.
-### 1.1 Usage
+### 1.1. Usage
     # Heading level 1
     ## Heading level 2
     ### Heading level 3
     #### Heading level 4
     ##### Heading level 5
     ###### Heading level 6
-### 1.2 Example
+### 1.2. Example
 > # Heading level 1
 > ## Heading level 2
 > ### Heading level 3
@@ -36,7 +36,7 @@ Use **#** _to write title._ It can be maximum 6 level.
 
 ## 2. Code
 Use **TAP KEY** or **SPACE KEY 4 TIMES** _to write code block._ **```** can be used(can highlight syntax).
-### 2.1 Usage
+### 2.1. Usage
         public class Example {
             public static void main(String[] args) {
                 System.out.println("Hello, World!");
@@ -52,7 +52,7 @@ or
         }
     }
     ```
-### 2.2 Example
+### 2.2. Example
 >     public class Example {
 >         public static void main(String[] args) {
 >             System.out.println("Hello, World!");
@@ -72,11 +72,11 @@ or
 
 ## 3. Blockquotes
 Use **>** _to write blockquotes._ It can be used in duplicate.
-### 3.1 Usage
+### 3.1. Usage
     > Blockquotes 1
     >> Blockquotes 2
     >>> Blockquotes 3
-### 3.2 Example
+### 3.2. Example
 > > Blockquotes 1
 > 
 > >> Blockquotes 2
@@ -89,16 +89,16 @@ Use **>** _to write blockquotes._ It can be used in duplicate.
 
 ## 4. List
 Use **1.** _to write Ordered List._ Use __* - +__ _to write Unordered List._ 
-### 4.1 Usage
-#### 4.1.1 Ordered List
+### 4.1. Usage
+#### 4.1.1. Ordered List
     1. List 1
     2. List 2
     3. List 3
-#### 4.1.2 Unordered List
+#### 4.1.2. Unordered List
     * List 1
         * List 2
     * List 3
-### 4.2 Example
+### 4.2. Example
 > Ordered List
 > 1. List 1
 > 2. List 2
@@ -115,19 +115,19 @@ Use **1.** _to write Ordered List._ Use __* - +__ _to write Unordered List._
 
 ## 5. Font Style
 Use __*__ or **_** _to emphasize Text._ 
-### 5.1 Usage
-#### 5.1.1 Bold
+### 5.1. Usage
+#### 5.1.1. Bold
     **Bold Text**
     __Bold Text__
-#### 5.1.2 Italic
+#### 5.1.2. Italic
     *Italic Text*
     _Italic Text_
-#### 5.1.3 Both
+#### 5.1.3. Both
     ***Both Text***
     ___Both Text___
-#### 5.1.4 Cancel
+#### 5.1.4. Cancel
     ~~Cancel Text~~
-### 5.2 Example
+### 5.2. Example
 > Normal Text
 >
 > **Bold Text**
@@ -144,10 +144,10 @@ Use __*__ or **_** _to emphasize Text._
 
 ## 6. Links
 Use **[] ()** _to create Hypertext._ It can also be used as index in the Markdown file.
-### 6.1 Usage
+### 6.1. Usage
     [Github](https://github.com/)
     [Links](#6-links)
-### 6.2 Example
+### 6.2. Example
 > [Github](https://github.com/)
 >
 > [Links](#6-links)
