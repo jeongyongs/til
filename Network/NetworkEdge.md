@@ -50,6 +50,7 @@ This time, we will look into the network by user.
 <br>
 
 ## 2. Physical Media
+Physical media for the Internet connection
 ### 2.1. Term
 - **bit**: propagates between transmitter/receiver pairs
 - **physical link**: what lies between transmitter and receiver
